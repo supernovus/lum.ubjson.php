@@ -45,7 +45,8 @@ $decodedArrayOrObject = $ubj->decodeValue($encodedString);
 
 The `draft9` option is kept only for compatibility 
 with the previous UBJSON implementation that lived in the 
-`lum-encode` package. It should not be used in new code.
+[lum-encode](https://github.com/supernovus/lum.encode.php) package. 
+It should not be used in new code.
 
 ## Official URLs
 

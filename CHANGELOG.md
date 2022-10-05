@@ -6,10 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## Changed
+- Added links to the README and CHANGELOG.
+
 ## [1.0.0] - 2022-08-04
 ### Added
 - Initial release.
-- This replaces the older *draft-9* implementation that used to be in the `lum-encode` package.
+- This replaces the older *draft-9* implementation that used to be in the 
+[lum-encode](https://github.com/supernovus/lum.encode.php) package.
 
 [Unreleased]: https://github.com/supernovus/lum.ubjson.php/compare/v1.0.0...HEAD
 [1.0.0]: https://github.com/supernovus/lum.ubjson.php/releases/tag/v1.0.0
